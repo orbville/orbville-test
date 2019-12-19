@@ -33,6 +33,10 @@ sections:
 
           4)
         title: Contacts
+      - content: >-
+          We provide a community for persons to engage and find out more about
+          the Caribbean experience in their home country as well as in the UK.
+        title: Community
     subtitle: An optional subtitle of the section
     title: What We Do
     type: servicesblock
