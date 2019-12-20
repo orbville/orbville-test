@@ -13,25 +13,22 @@ sections:
     serviceslist:
       - content: >-
           We host, organise and help inidividuals and groups with all aspects of
-          event planning and promotions.
+          event planning
         title: Events Planning
       - content: 'Through our various outlets, we do both paid and unpaid promotion.'
-        title: Promotion
+        title: Event Promotions
       - content: >-
           We provide contacts for the following:
 
 
-          1) DJs for different genres: Soca, Afrobeats, Dancehall, Reggae, EDM,
+          1. DJs for different genres: Soca, Afrobeats, Dancehall, Reggae, EDM,
           Hip-Hop, R&B
 
+          2. Equipment
 
-          2) Equipment
+          3. Event setup
 
-
-          3) Event setup
-
-
-          4)
+          4.
         title: Contacts
       - content: >-
           We provide a community for persons to engage and find out more about
