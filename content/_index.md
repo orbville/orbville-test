@@ -3,10 +3,10 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
-      Orbville is an entertainment company which focuses on the promotion of the
-      cultural aspects of the english-speaking Caribbean.
+      Orbville is a website have a peek in the life
+      of Orb! Get it? Orb-ville!
     section_id: hero
-    title: Welcome to Orbville Entertainment!
+    title: Welcome to Orbville!
     type: heroblock
   - component: services_block.html
     section_id: services
@@ -24,9 +24,9 @@ sections:
           1. DJs for different genres: Soca, Afrobeats, Dancehall, Reggae, EDM,
           Hip-Hop, R&B
 
-          2. Equipment
+          1. Equipment
 
-          3. Event setup
+          2. Event setup
 
           4.
         title: Contacts
